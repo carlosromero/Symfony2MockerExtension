@@ -1,5 +1,6 @@
 {
-    "name": "polishsymfonycommunity/symfony2-mocker-extension",
+    "name": "cromero/symfony2-mocker-extension",
+    "replace": "polishsymfonycommunity/symfony2-mocker-extension",
     "description": "Behat extension for mocking services defined in the Symfony2 dependency injection container.",
     "keywords": ["behat", "mockery", "mock", "bdd", "tdd", "test"],
     "homepage": "http://symfonylab.pl",
